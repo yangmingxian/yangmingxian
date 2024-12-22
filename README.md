@@ -6,7 +6,7 @@ I major in **Artificial Intelligence (MSc)**  and **Digtal Media Technology (BSc
 
 I'm intreseted in New Tech and Game Design. Now I'm Trying to create a indie game.
 
-Here's my Website: ✨ [**Lumen**](yangmingxian.com)  ✨
+Here's my Website: ✨ [**Lumen**](https://yangmingxian.com/)  ✨
 
 <!-- **yangmingxian/yangmingxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
