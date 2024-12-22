@@ -1,7 +1,14 @@
-<!-- ## Hi there 👋-->
+## Hi there 👋
 
-<!--
-**yangmingxian/yangmingxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a confused but determined dream chaser living in this finite infinite cyberspace.
+
+I major in **Artificial Intelligence (MSc)**  and **Digtal Media Technology (BSc)**.
+
+I'm intreseted in New Tech and Game Design. Now I'm Trying to create a indie game.
+
+Here's my Website: ✨ [**Lumen**](yangmingxian.com)  ✨
+
+<!-- **yangmingxian/yangmingxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,6 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I’m a confused but determined dream chaser living in this finite infinite cyberspace.
+- ⚡ Fun fact: ... -->
